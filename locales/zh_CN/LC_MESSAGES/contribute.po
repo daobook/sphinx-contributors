@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, David Garcia. All rights reserved.
+# This file is distributed under the same license as the sphinx-contributors
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx-contributors \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-25 11:55+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/contribute.rst:2
+msgid "Contribute"
+msgstr ""
+
+#: ../../source/contribute.rst:4
+msgid "Thanks for considering contributing to this extension!"
+msgstr ""
+
+#: ../../source/contribute.rst:6
+msgid ""
+"See the `issue tracker <https://github.com/dgarcia360/sphinx-"
+"contributors/issues>`_ for a list of features we would like to add in the"
+" future."
+msgstr ""
+
+#: ../../source/contribute.rst:7
+msgid ""
+"Feel free to propose new features or report bugs, describing how you want"
+" the extension to behave."
+msgstr ""
+
+#: ../../source/contribute.rst:8
+msgid "Let us know in the same issue if you want to send a pull-request ❤️"
+msgstr ""
+
+#: ../../source/contribute.rst:10
+msgid ""
+"This project adheres to the `Contributor Covenant Code of Conduct "
+"<https://www.contributor-covenant.org/>`_. By participating, you are "
+"expected to uphold this code. Please report unacceptable behavior to "
+"`@dgarcia360 <https://davidgarcia.dev/contact/>`_."
+msgstr ""
+

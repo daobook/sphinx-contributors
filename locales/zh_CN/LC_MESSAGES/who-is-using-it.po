@@ -1,0 +1,113 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-25 11:55+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/who-is-using-it.rst:2
+msgid "Who is using it?"
+msgstr "谁在使用它？"
+
+#: ../../source/who-is-using-it.rst:4
+msgid "BrainFlow:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:5
+msgid "https://brainflow.readthedocs.io/en/stable/Partners.html#contributors"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:7
+msgid "DeerLab:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:8
+msgid "https://jeschkelab.github.io/DeerLab/contributing.html"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:10
+msgid "FIRST Robotics Competition:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:11
+msgid ""
+"https://docs.wpilib.org/en/stable/docs/contributing/frc-docs/top-"
+"contributors.html"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:13
+msgid "KubeInit:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:14 ../../source/who-is-using-it.rst:17
+msgid "https://docs.kubeinit.org/index.html?highlight=contributors#contributors"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:16
+msgid "Insight Toolkit:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:18
+msgid "meson-python:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:19
+msgid "https://meson-python.readthedocs.io/en/latest/index.html#contributors"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:20
+msgid "MIRACL:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:21
+msgid "https://miracl.readthedocs.io/en/latest/about/acknowledgements.html"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:22
+msgid "Parfive:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:23
+msgid "https://parfive.readthedocs.io/en/stable/#contributors"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:24
+msgid "Sphinx Sitemap:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:25
+msgid ""
+"https://sphinx-sitemap.readthedocs.io/en/latest/contributing.html"
+"#current-contributors"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:27
+msgid "Symbol:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:28
+msgid "https://docs.symbol.dev/contribute/authors.html"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:31
+msgid "PhotonVision:"
+msgstr ""
+
+#: ../../source/who-is-using-it.rst:32
+msgid ""
+"https://docs.photonvision.org/en/latest/docs/contributing/photonvision-"
+"docs/top-contributors.html"
+msgstr ""
+

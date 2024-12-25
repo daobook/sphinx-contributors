@@ -1,0 +1,93 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-25 11:55+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/index.rst:2
+msgid "Overview"
+msgstr "概览"
+
+#: ../../source/index.rst:4
+msgid ""
+"``sphinx-contributors`` is a Sphinx extension that helps you recognize "
+"the people who have contributed to an open-source project."
+msgstr ""
+"``sphinx-contributors`` 是 Sphinx 插件，它可以帮助你识别开源项目的贡献者。"
+
+#: ../../source/index.rst:7
+msgid "Features"
+msgstr "特征"
+
+#: ../../source/index.rst:9
+msgid "**Celebrate contributions**"
+msgstr "**庆祝贡献**"
+
+#: ../../source/index.rst:11
+msgid "Show the list of users who have contributed to a repository in your docs."
+msgstr "在你的文档中显示仓库的贡献者列表。"
+
+#: ../../source/index.rst:13
+msgid "**Configurable**"
+msgstr "**可配置**"
+
+#: ../../source/index.rst:15
+msgid "Choose how many contributors show and sort them by the number of commits."
+msgstr "选择显示多少贡献者并按照提交次数排序。"
+
+#: ../../source/index.rst:18
+msgid "Supported platforms"
+msgstr "支持的平台"
+
+#: ../../source/index.rst:20
+msgid "``sphinx-contributors`` only works with GitHub public repositories."
+msgstr "``sphinx-contributors`` 只适用于 GitHub 公开仓库。"
+
+#: ../../source/index.rst:23
+msgid "Get started"
+msgstr "入门"
+
+#: ../../source/index.rst:36
+msgid "Contributing"
+msgstr "贡献"
+
+#: ../../source/index.rst:38
+msgid ""
+"We encourage public contributions! Please review `CONTRIBUTING <https"
+"://sphinx-contributors.readthedocs.io/en/latest/contribute.html>`_ for "
+"details on our code of conduct and development process."
+msgstr ""
+
+#: ../../source/index.rst:41
+msgid "**THANK YOU TO THE CONTRIBUTORS OF SPHINX-CONTRIBUTORS!**"
+msgstr ""
+
+#: ../../source/index.rst:48
+msgid "License"
+msgstr ""
+
+#: ../../source/index.rst:50
+msgid ""
+"Copyright (c) 2018 - present David Garcia (`@dgarcia360 "
+"<https://twitter.com/dgarcia360>`_)."
+msgstr ""
+
+#: ../../source/index.rst:52
+msgid ""
+"Licensed under the `MIT License <https://github.com/dgarcia360/sphinx-"
+"contributors/blob/main/LICENSE.md>`_."
+msgstr ""
+

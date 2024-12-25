@@ -1,0 +1,56 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-25 11:55+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/reference.rst:2
+msgid "Reference"
+msgstr ""
+
+#: ../../source/reference.rst:5
+msgid "Contributors directive"
+msgstr ""
+
+#: ../../source/reference.rst:12
+msgid ""
+"Number of contributors to list, between 1 and 100. The default value is "
+"10."
+msgstr ""
+
+#: ../../source/reference.rst:19
+msgid ""
+"Results are sorted by the number of contributions. This parameter "
+"controls whether they are sorted by most active users first (``DESC``) or"
+" least active users first (``ASC``). Default is ``DESC``."
+msgstr ""
+
+#: ../../source/reference.rst:26
+msgid ""
+"Whether to include an image with the avatar returned by GitHub. Use CSS "
+"to customize the image size, since the returned images might vary."
+msgstr ""
+
+#: ../../source/reference.rst:33
+msgid "Whether to show the total number of contributions by each user or not."
+msgstr ""
+
+#: ../../source/reference.rst:40
+msgid ""
+"Comma seperated usernames to exlude from the list of contributors, for "
+"example: ``dependabot[bot],pre-commit-ci[bot]``."
+msgstr ""
+

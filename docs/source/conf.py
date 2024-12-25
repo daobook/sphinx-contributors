@@ -47,3 +47,7 @@ html_static_path = ["_static"]
 html_css_files = [
     "css/custom.css",
 ]
+
+# == 国际化输出 ==========================================================================
+language = 'zh_CN'
+locale_dirs = ['../../locales/']  # po files will be created in this directory
